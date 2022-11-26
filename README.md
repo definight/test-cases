@@ -179,7 +179,7 @@
 
 </details>
 
-[//]:  <details>
+<details>
   <summary>10</summary>
 
 | Идентификатор      |  case-010   |
