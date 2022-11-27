@@ -1,4 +1,4 @@
-## Here's examples of my bug reports
+## Here's examples of my test cases
 
  <details>
   <summary>1</summary>
