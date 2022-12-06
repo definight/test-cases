@@ -1,4 +1,4 @@
-## Here's examples of my test cases
+## Here's examples of test cases made by me
 
  <details>
   <summary>1</summary>
